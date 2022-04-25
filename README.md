@@ -11,8 +11,11 @@
 ### Dataset Links
 
 * [playgrounds](https://data.wprdc.org/dataset/playgrounds)
+ -Provides data of every playground in each Pittsburgh neighborhood
 * [fires](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02?view_id=db1ccf7c-fab0-4d5c-af3e-245ebe766be2)
+ -List of every fire reported in Pittsburgh
 * [overdose incidents](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses/resource/1c59b26a-1684-4bfb-92f7-205b947530cf)
+ -Provides reported fatal overdose deaths in Allegheny County
 
 ### Project Goal
 
